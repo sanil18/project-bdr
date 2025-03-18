@@ -60,7 +60,7 @@
     "zod": "^3.24.1",
     "leaflet": "latest",
     "nodemailer": "latest",
-    "react-leaflet": "latest",
+    "react-leaflet": "^4.2.1",
     "@emailjs/browser": "latest"
   },
   "devDependencies": {
