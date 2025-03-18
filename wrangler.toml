@@ -1,0 +1,3 @@
+name = "project-bdr"  # Replace with your project name
+main = "src/index.js"       # Replace with the path to your main entry-point file
+compatibility_date = "2025-03-18"  # Optional, set it to the current date
